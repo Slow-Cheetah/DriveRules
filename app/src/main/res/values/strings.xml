@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DriveRules</string>
+    <string name="title_name">Правила дорожного движения</string>
+    <string name="check_name">Общие положения правил дорожного движения</string>
+</resources>
